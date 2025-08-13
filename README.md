@@ -32,17 +32,22 @@
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
   技术栈：Python  
-  ⭐ Star: 1 | 📅 最后更新：2025-08-12  
+  ⭐ Star: 1 | 📅 最后更新：2025-08-12
+  
+- **[multi-agent](https://github.com/shizhengLi/multi-agent)**  
+  项目简介：Multiagent projects  
+  技术栈：Jupyter Notebook  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-30  
 
-- **[DeepLearning.AI](https://github.com/shizhengLi/DeepLearning.AI)**  
-  项目简介：Notes of short courses on DeepLearning.AI (founded by Andrew Ng)  
-  技术栈：未知  
-  ⭐ Star: 1 | 📅 最后更新：2025-07-22  
-
-- **[agent-tools](https://github.com/shizhengLi/agent-tools)**  
-  项目简介：langgraph-bigtool 项目学习,agent如何使用非常多的工具  
+- **[pygit-merkle-tree](https://github.com/shizhengLi/pygit-merkle-tree)**  
+  项目简介：基于Merkle Tree原理实现的简化版Git版本控制系统  
   技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-29  
+
+- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
+  项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
+  技术栈：C++  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-24
 
 - **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
   项目简介：暂无描述  
@@ -54,6 +59,16 @@
   技术栈：TypeScript  
   ⭐ Star: 0 | 📅 最后更新：2025-08-13  
 
+- **[DeepLearning.AI](https://github.com/shizhengLi/DeepLearning.AI)**  
+  项目简介：Notes of short courses on DeepLearning.AI (founded by Andrew Ng)  
+  技术栈：未知  
+  ⭐ Star: 1 | 📅 最后更新：2025-07-22  
+
+- **[agent-tools](https://github.com/shizhengLi/agent-tools)**  
+  项目简介：langgraph-bigtool 项目学习,agent如何使用非常多的工具  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-31
+  
 
 - **[flores_eval](https://github.com/shizhengLi/flores_eval)**  
   项目简介：Evaluation of Flores (Machine Translation)  
@@ -65,26 +80,10 @@
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-07-31  
 
-- **[multi-agent](https://github.com/shizhengLi/multi-agent)**  
-  项目简介：Multiagent projects  
-  技术栈：Jupyter Notebook  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-30  
-
-
-- **[pygit-merkle-tree](https://github.com/shizhengLi/pygit-merkle-tree)**  
-  项目简介：基于Merkle Tree原理实现的简化版Git版本控制系统  
-  技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-29  
-
-- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
-  项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
-  技术栈：C++  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-24  
-
   
 - **[TDD-Java](https://github.com/shizhengLi/TDD-Java)**  
   项目简介：An example using Test-Driven Development (TDD) techniques in Java language. Learned from Dr. Venkat Subramaniam in his Software Design course.  
-  技术栈：HTML  
+  技术栈：Java  
   ⭐ Star: 0 | 📅 最后更新：2024-11-12  
 
 - **[Tech-Learning](https://github.com/shizhengLi/Tech-Learning)**  

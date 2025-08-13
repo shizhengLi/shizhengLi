@@ -15,7 +15,7 @@
   ⭐ Star: 33 | 📅 最后更新：2025-05-16  
 
 - **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
-  项目简介：学习Context7 MCP Server 源码  
+  项目简介：学习MCP协议，实现一个几万行代码的MCP项目。并且学习Context7 MCP Server 源码  
   技术栈：TypeScript  
   ⭐ Star: 0 | 📅 最后更新：2025-08-13
 

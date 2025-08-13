@@ -6,7 +6,6 @@
 - 📍 所在地：上海
 - 💻 技能：Python, C++, TypeScript, PyTorch, CUDA, Triton
 - 🌐 博客/个人网站：[个人博客](https://lishizheng.blog.csdn.net)
-- 📧 联系方式：740925018[dot]qq[dot]com, shizhengcs[dot]gmail[dot]com
 
 ## 我的项目
 以下是我的一些精选项目，欢迎查看和提供反馈！
@@ -47,7 +46,7 @@
 
 ## 联系我
 - GitHub: [shizhengLi](https://github.com/shizhengLi)
-- 邮箱：（添加你的邮箱或社交媒体链接）
+- 联系方式：740925018[dot]qq[dot]com, shizhengcs[dot]gmail[dot]com
 - 欢迎 Star ⭐ 我的项目或提出建议！
 
 感谢访问我的主页！🚀

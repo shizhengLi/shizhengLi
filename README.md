@@ -61,7 +61,7 @@
 
 - **[DeepLearning.AI](https://github.com/shizhengLi/DeepLearning.AI)**  
   项目简介：Notes of short courses on DeepLearning.AI (founded by Andrew Ng)  
-  技术栈：未知  
+  技术栈：Python
   ⭐ Star: 1 | 📅 最后更新：2025-07-22  
 
 - **[agent-tools](https://github.com/shizhengLi/agent-tools)**  

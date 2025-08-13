@@ -1,7 +1,7 @@
 # 欢迎访问我的 GitHub 主页！👋
 
 ## 关于我
-我是 Shizheng Li (李世政)，一名对机器学习、深度学习和开源项目充满热情的开发者。我喜欢探索 AI 技术、学习框架（如 PyTorch/Langchain/Triton），并通过项目实践提升技能。我还对英语学习和知识分享感兴趣，记录了大量英文财经杂志和TED 演讲的学习笔记。
+我是 Shizheng Li (李世政)，一名对机器学习、深度学习和开源项目充满热情的开发者。我喜欢探索 AI 技术、学习框架（如 PyTorch/Langchain/Triton），并通过项目实践提升技能。我还对英语学习和知识分享感兴趣，记录了大量英文财经杂志（如《经济学人》）和TED 演讲的学习笔记。
 
 - 📍 所在地：上海
 - 💻 技能：Python, C++, TypeScript, PyTorch, CUDA, Triton

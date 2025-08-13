@@ -15,7 +15,7 @@
   ⭐ Star: 33 | 📅 最后更新：2025-05-16  
 
 - **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
-  项目简介：MCP协议学习，Context7 MCP Server 源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
+  项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
   技术栈：TypeScript  
   ⭐ Star: 0 | 📅 最后更新：2025-08-13
 

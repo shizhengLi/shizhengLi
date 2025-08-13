@@ -8,37 +8,96 @@
 - 🌐 博客/个人网站：[个人博客](https://lishizheng.blog.csdn.net)
 
 ## 我的项目
-以下是我的一些精选项目，欢迎查看和提供反馈！
 
 - **[Learning-English-With-TED](https://github.com/shizhengLi/Learning-English-With-TED)**  
-  项目简介：记录 TED 演讲、《经济学人》等英文杂志和 YouTube 视频的学习笔记（中文）。  
-  技术栈：Markdown  
-  ⭐ Star: 33 | 📅 最后更新：2025年
+  项目简介：Learning notes (In Chinese) of TED speeches, English magazines (e.g., The Economist) and YouTube videos  
+  技术栈：未知  
+  ⭐ Star: 33 | 📅 最后更新：2025-05-16  
 
-- **[multi-agent](https://github.com/shizhengLi/multi-agent)**  
-  项目简介：多智能体系统相关项目，探索多智能体协作与算法。  
-  技术栈：Jupyter Notebook, Python  
-  ⭐ Star: - | 📅 最后更新：2025年
+- **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
+  项目简介：学习Context7 MCP Server 源码  
+  技术栈：TypeScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-13
+
+- **[qwen-agent-learning](https://github.com/shizhengLi/qwen-agent-learning)**  
+  项目简介：Agent framework and applications built upon Qwen>=3.0 框架源码学习  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-13
 
 - **[void_learning](https://github.com/shizhengLi/void_learning)**  
-  项目简介：学习开源项目 Void（类似 Cursor），研究代码生成与编辑工具。  
+  项目简介：Void (open-source Cursor) project learning. Void (开源 Cursor) 项目学习     
   技术栈：Python  
-  ⭐ Star: - | 📅 最后更新：2025年
-
-- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
-  项目简介：用 C++ 实现一个小型 PyTorch，用于学习深度学习框架的底层原理。  
-  技术栈：C++  
-  ⭐ Star: - | 📅 最后更新：2025年
+  ⭐ Star: 0 | 📅 最后更新：2025-07-29
 
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
-  项目简介：探索 CUDA 和 Triton，重点实现 Flash Attention 算法。  
-  技术栈：Python, CUDA, Triton  
-  ⭐ Star: 1 | 📅 最后更新：2025年
+  项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
+  技术栈：Python  
+  ⭐ Star: 1 | 📅 最后更新：2025-08-12  
+
+- **[DeepLearning.AI](https://github.com/shizhengLi/DeepLearning.AI)**  
+  项目简介：Notes of short courses on DeepLearning.AI (founded by Andrew Ng)  
+  技术栈：未知  
+  ⭐ Star: 1 | 📅 最后更新：2025-07-22  
+
+- **[agent-tools](https://github.com/shizhengLi/agent-tools)**  
+  项目简介：langgraph-bigtool 项目学习,agent如何使用非常多的工具  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
+
+- **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
+  项目简介：暂无描述  
+  技术栈：JavaScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
 
 - **[code-context-learning](https://github.com/shizhengLi/code-context-learning)**  
-  项目简介：基于向量数据库的语义代码搜索工具，提升代码查询效率。  
+  项目简介：Code Context 是一个基于向量数据库的语义代码搜索工具，源代码学习  
   技术栈：TypeScript  
-  ⭐ Star: - | 📅 最后更新：2025年
+  ⭐ Star: 0 | 📅 最后更新：2025-08-13  
+
+
+- **[flores_eval](https://github.com/shizhengLi/flores_eval)**  
+  项目简介：Evaluation of Flores (Machine Translation)  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-21  
+
+- **[langmem-learning](https://github.com/shizhengLi/langmem-learning)**  
+  项目简介：暂无描述  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
+
+- **[multi-agent](https://github.com/shizhengLi/multi-agent)**  
+  项目简介：Multiagent projects  
+  技术栈：Jupyter Notebook  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-30  
+
+
+- **[pygit-merkle-tree](https://github.com/shizhengLi/pygit-merkle-tree)**  
+  项目简介：基于Merkle Tree原理实现的简化版Git版本控制系统  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-29  
+
+- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
+  项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
+  技术栈：C++  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-24  
+
+  
+- **[TDD-Java](https://github.com/shizhengLi/TDD-Java)**  
+  项目简介：An example using Test-Driven Development (TDD) techniques in Java language. Learned from Dr. Venkat Subramaniam in his Software Design course.  
+  技术栈：HTML  
+  ⭐ Star: 0 | 📅 最后更新：2024-11-12  
+
+- **[Tech-Learning](https://github.com/shizhengLi/Tech-Learning)**  
+  项目简介：Personal technical learning notes.  
+  技术栈：C  
+  ⭐ Star: 0 | 📅 最后更新：2025-02-09  
+
+- **[csapp_bilibili](https://github.com/shizhengLi/csapp_bilibili)**  
+  项目简介：Learning Computer Systems: A Programmer's Perspective (CSAPP) by coding  
+  技术栈：C  
+  ⭐ Star: 4 | 📅 最后更新：2025-06-24  
+
+
 
 ## 其他兴趣
 - 学习英语：通过 TED 演讲和英文杂志提升语言能力。

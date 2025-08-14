@@ -20,7 +20,7 @@
   ⭐ Star: 0 | 📅 最后更新：2025-08-13
 
 - **[picotron-learning](https://github.com/shizhengLi/picotron-learning)**  
-  项目简介：HF分布式并行4D-parallelism distributed training framework源代码学习与优化  
+  项目简介：HF分布式并行4D-parallelism 框架源代码学习与优化  
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-08-14
 

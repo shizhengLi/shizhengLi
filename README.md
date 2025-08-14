@@ -26,12 +26,12 @@
 
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
-  技术栈：Python, Cpp, Cuda, Triton
+  技术栈：Python, Cpp, Cuda, Triton  
   ⭐ Star: 1 | 📅 最后更新：2025-08-12
 
 - **[cpp-wheel-impl](https://github.com/shizhengLi/cpp-wheel-impl)**  
   项目简介：记录C++造轮子。通过手动实现各种C++常用组件和库，深入理解C++底层原理和设计模式  
-  技术栈：Cpp 
+  技术栈：Cpp  
   ⭐ Star: 0 | 📅 最后更新：2025-08-14
 
 

@@ -19,6 +19,22 @@
   技术栈：TypeScript  
   ⭐ Star: 0 | 📅 最后更新：2025-08-13
 
+- **[picotron-learning](https://github.com/shizhengLi/picotron-learning)**  
+  项目简介：HF分布式并行4D-parallelism distributed training framework源代码学习与优化  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-14
+
+- **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
+  项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
+  技术栈：Python, Cpp, Cuda, Triton
+  ⭐ Star: 1 | 📅 最后更新：2025-08-12
+
+- **[cpp-wheel-impl](https://github.com/shizhengLi/cpp-wheel-impl)**  
+  项目简介：记录C++造轮子。通过手动实现各种C++常用组件和库，深入理解C++底层原理和设计模式  
+  技术栈：Cpp 
+  ⭐ Star: 0 | 📅 最后更新：2025-08-14
+
+
 - **[qwen-agent-learning](https://github.com/shizhengLi/qwen-agent-learning)**  
   项目简介：Agent framework and applications built upon Qwen>=3.0 框架源码学习  
   技术栈：Python  
@@ -29,10 +45,7 @@
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-07-29
 
-- **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
-  项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
-  技术栈：Python  
-  ⭐ Star: 1 | 📅 最后更新：2025-08-12
+
 
 
 - **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  

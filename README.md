@@ -33,6 +33,12 @@
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
   技术栈：Python  
   ⭐ Star: 1 | 📅 最后更新：2025-08-12
+
+
+- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
+  项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
+  技术栈：C++  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-24
   
 - **[multi-agent](https://github.com/shizhengLi/multi-agent)**  
   项目简介：Multiagent projects  
@@ -44,10 +50,6 @@
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-07-29  
 
-- **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
-  项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
-  技术栈：C++  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-24
 
 - **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
   项目简介：暂无描述  

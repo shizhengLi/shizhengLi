@@ -27,7 +27,17 @@
 - **[deepspeed-learning](https://github.com/shizhengLi/deepspeed-learning)**  
   项目简介：分布式训练框架Deepspeed源码剖析  
   技术栈：Python  
+  ⭐ Star: 1 | 📅 最后更新：2025-08-16
+
+- **[verl-learning](https://github.com/shizhengLi/verl-learning)**  
+  项目简介：字节的强化学习框架源码剖析：Volcano Engine Reinforcement Learning for LLMs  
+  技术栈：Python  
   ⭐ Star: 1 | 📅 最后更新：2025-08-16  
+
+- **[vllm-learning](https://github.com/shizhengLi/vllm-learning)**  
+  项目简介：Vllm (A high-throughput and memory-efficient inference and serving engine for LLMs)推理框架源码学习  
+  技术栈：Python  
+  ⭐ Star: 1 | 📅 最后更新：2025-08-16 
 
 - **[picotron-learning](https://github.com/shizhengLi/picotron-learning)**  
   项目简介：HF分布式并行4D-parallelism 框架源代码学习与优化  

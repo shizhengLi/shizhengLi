@@ -19,6 +19,16 @@
   技术栈：TypeScript  
   ⭐ Star: 1 | 📅 最后更新：2025-08-13
 
+- **[megatron-learning](https://github.com/shizhengLi/megatron-learning)**  
+  项目简介：分布式训练框架Megatron源码剖析  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-15  
+
+- **[deepspeed-learning](https://github.com/shizhengLi/deepspeed-learning)**  
+  项目简介：分布式训练框架Deepspeed源码剖析  
+  技术栈：Python  
+  ⭐ Star: 1 | 📅 最后更新：2025-08-16  
+
 - **[picotron-learning](https://github.com/shizhengLi/picotron-learning)**  
   项目简介：HF分布式并行4D-parallelism 框架源代码学习与优化  
   技术栈：Python  
@@ -61,7 +71,12 @@
 - **[pygit-merkle-tree](https://github.com/shizhengLi/pygit-merkle-tree)**  
   项目简介：基于Merkle Tree原理实现的简化版Git版本控制系统  
   技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-29  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-29
+
+- **[mooncake-learning](https://github.com/shizhengLi/mooncake-learning)**  
+  项目简介：月之暗面服务平台源码学习：Mooncake is the serving platform for Kimi  
+  技术栈：C++  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-15  
 
 
 - **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  

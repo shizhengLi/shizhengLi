@@ -5,7 +5,7 @@
 
 - 📍 所在地：上海
 - 💻 技能：Python, C++, TypeScript, PyTorch, CUDA, Triton
-- 🌐 博客/个人网站：[个人博客](https://lishizheng.blog.csdn.net) [领英](https://www.linkedin.com/in/shizhenglee/) [简历（CV）](./复旦-李世政-硕士简历.pdf)
+- 🌐 博客/个人网站：[个人博客](https://lishizheng.blog.csdn.net) [领英](https://www.linkedin.com/in/shizhenglee/) [简历](./复旦-李世政-硕士简历.pdf)
 
 ## 我的项目
 

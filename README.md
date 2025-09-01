@@ -49,6 +49,16 @@
   技术栈：Python, Cpp, Cuda, Triton  
   ⭐ Star: 1 | 📅 最后更新：2025-08-12
 
+- **[build-lisp](https://github.com/shizhengLi/build-lisp)**  
+  项目简介：使用C语言实现Lisp语言的特性  
+  技术栈：C  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-31
+
+- **[tiny-operation-system](https://github.com/shizhengLi/tiny-operation-system)**  
+  项目简介：构建一个小型操作系统（类似于Linux，但简化版）  
+  技术栈：C  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-01 
+
 - **[cpp-wheel-impl](https://github.com/shizhengLi/cpp-wheel-impl)**  
   项目简介：记录C++造轮子。通过手动实现各种C++常用组件和库，深入理解C++底层原理和设计模式  
   技术栈：Cpp  

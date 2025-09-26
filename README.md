@@ -76,8 +76,6 @@
   ⭐ Star: 0 | 📅 最后更新：2025-07-29
 
 
-
-
 - **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
   项目简介：Tiny Torch implementation in C++ for learning.  用 C++ 实现的小型 Torch 项目，用于学习。  
   技术栈：C++  
@@ -119,32 +117,6 @@
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-07-31
   
-
-- **[flores_eval](https://github.com/shizhengLi/flores_eval)**  
-  项目简介：Evaluation of Flores (Machine Translation)  
-  技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-21  
-
-- **[langmem-learning](https://github.com/shizhengLi/langmem-learning)**  
-  项目简介：暂无描述  
-  技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
-
-  
-- **[TDD-Java](https://github.com/shizhengLi/TDD-Java)**  
-  项目简介：An example using Test-Driven Development (TDD) techniques in Java language. Learned from Dr. Venkat Subramaniam in his Software Design course.  
-  技术栈：Java  
-  ⭐ Star: 0 | 📅 最后更新：2024-11-12  
-
-- **[Tech-Learning](https://github.com/shizhengLi/Tech-Learning)**  
-  项目简介：Personal technical learning notes.  
-  技术栈：C  
-  ⭐ Star: 0 | 📅 最后更新：2025-02-09  
-
-- **[csapp_bilibili](https://github.com/shizhengLi/csapp_bilibili)**  
-  项目简介：Learning Computer Systems: A Programmer's Perspective (CSAPP) by coding  
-  技术栈：C  
-  ⭐ Star: 4 | 📅 最后更新：2025-06-24  
 
 
 

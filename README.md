@@ -68,7 +68,17 @@
 - **[kilocode-learning](https://github.com/shizhengLi/kilocode-learning)**  
   项目简介：深入解析开源Kilocode核心技术实现与架构设计  
   技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-30  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-30
+
+- **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
+  项目简介：暂无描述  
+  技术栈：JavaScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
+
+- **[code-context-learning](https://github.com/shizhengLi/code-context-learning)**  
+  项目简介：Code Context 是一个基于向量数据库的语义代码搜索工具，源代码学习  
+  技术栈：TypeScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-08-13 
 
 
 - **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
@@ -92,15 +102,7 @@
   ⭐ Star: 0 | 📅 最后更新：2025-08-15  
 
 
-- **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
-  项目简介：暂无描述  
-  技术栈：JavaScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-31  
-
-- **[code-context-learning](https://github.com/shizhengLi/code-context-learning)**  
-  项目简介：Code Context 是一个基于向量数据库的语义代码搜索工具，源代码学习  
-  技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-08-13  
+ 
 
 - **[python-master](https://github.com/shizhengLi/python-master)**  
   项目简介：一个深入探索Python核心原理与高级技术的专业学习系列  

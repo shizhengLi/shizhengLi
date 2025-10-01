@@ -12,7 +12,12 @@
 - **[Learning-English-With-TED](https://github.com/shizhengLi/Learning-English-With-TED)**  
   项目简介：Learning notes (In Chinese) of TED speeches, English magazines (e.g., The Economist) and YouTube videos  
   技术栈：未知  
-  ⭐ Star: 33 | 📅 最后更新：2025-05-16  
+  ⭐ Star: 33 | 📅 最后更新：2025-05-16
+
+- **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
+  项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
+  技术栈：Python  
+  ⭐ Star: 5 | 📅 最后更新：2025-09-29 
 
 - **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
   项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
@@ -48,11 +53,7 @@
   项目简介：HF分布式并行4D-parallelism 框架源代码学习与优化  
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-08-14
-
-- **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
-  项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
-  技术栈：Python  
-  ⭐ Star: 5 | 📅 最后更新：2025-09-29  
+ 
 
 - **[cpp-wheel-impl](https://github.com/shizhengLi/cpp-wheel-impl)**  
   项目简介：记录C++造轮子。通过手动实现各种C++常用组件和库，深入理解C++底层原理和设计模式  

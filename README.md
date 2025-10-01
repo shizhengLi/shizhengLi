@@ -46,18 +46,8 @@
 
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
-  技术栈：Python, Cpp, Cuda, Triton  
-  ⭐ Star: 1 | 📅 最后更新：2025-08-12
-
-- **[build-lisp](https://github.com/shizhengLi/build-lisp)**  
-  项目简介：使用C语言实现Lisp语言的特性  
-  技术栈：C  
-  ⭐ Star: 0 | 📅 最后更新：2025-08-31
-
-- **[tiny-operation-system](https://github.com/shizhengLi/tiny-operation-system)**  
-  项目简介：构建一个小型操作系统（类似于Linux，但简化版）  
-  技术栈：C  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-01 
+  技术栈：Python  
+  ⭐ Star: 5 | 📅 最后更新：2025-09-29  
 
 - **[cpp-wheel-impl](https://github.com/shizhengLi/cpp-wheel-impl)**  
   项目简介：记录C++造轮子。通过手动实现各种C++常用组件和库，深入理解C++底层原理和设计模式  
@@ -74,6 +64,11 @@
   项目简介：Void (open-source Cursor) project learning. Void (开源 Cursor) 项目学习     
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-07-29
+
+- **[kilocode-learning](https://github.com/shizhengLi/kilocode-learning)**  
+  项目简介：深入解析开源Kilocode核心技术实现与架构设计  
+  技术栈：TypeScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-30  
 
 
 - **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
@@ -107,15 +102,33 @@
   技术栈：TypeScript  
   ⭐ Star: 0 | 📅 最后更新：2025-08-13  
 
-- **[DeepLearning.AI](https://github.com/shizhengLi/DeepLearning.AI)**  
-  项目简介：Notes of short courses on DeepLearning.AI (founded by Andrew Ng)  
-  技术栈：Python
-  ⭐ Star: 1 | 📅 最后更新：2025-07-22  
+- **[python-master](https://github.com/shizhengLi/python-master)**  
+  项目简介：一个深入探索Python核心原理与高级技术的专业学习系列  
+  技术栈：未知  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-28
 
-- **[agent-tools](https://github.com/shizhengLi/agent-tools)**  
-  项目简介：langgraph-bigtool 项目学习,agent如何使用非常多的工具  
+- **[slime-learning](https://github.com/shizhengLi/slime-learning)**  
+  项目简介：智谱GLM 4.5背后的Slime框架完全指南  
   技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-07-31
+  ⭐ Star: 0 | 📅 最后更新：2025-09-27
+
+- **[tiny-javascript](https://github.com/shizhengLi/tiny-javascript)**  
+  项目简介：JS从基础语法到高级特性的完整学习笔记，以及一个功能完整的 Wordle 游戏项目实践。  
+  技术栈：JavaScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-29
+
+- **[go-master](https://github.com/shizhengLi/go-master)**  
+  项目简介：Go语言大师课程：10篇深度技术博客  
+  技术栈：Go  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-28
+
+  
+- **[langchain-impl](https://github.com/shizhengLi/langchain-impl)**  
+  项目简介：LangChain Reimplementation  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-01
+
+
   
 
 

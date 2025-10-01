@@ -17,7 +17,7 @@
 - **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
   项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
   技术栈：TypeScript  
-  ⭐ Star: 4 | 📅 最后更新：2025-08-13
+  ⭐ Star: 7 | 📅 最后更新：2025-08-13
 
 - **[megatron-learning](https://github.com/shizhengLi/megatron-learning)**  
   项目简介：分布式训练框架Megatron源码剖析  

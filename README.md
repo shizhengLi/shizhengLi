@@ -19,6 +19,11 @@
   技术栈：TypeScript  
   ⭐ Star: 7 | 📅 最后更新：2025-08-13
 
+- **[zen-quotes](https://github.com/shizhengLi/zen-quotes)**  
+  项目简介: A serene VSCode extension that displays mindful quotes with elegant formatting  
+  技术栈：TypeScript  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-01  
+
 - **[megatron-learning](https://github.com/shizhengLi/megatron-learning)**  
   项目简介：分布式训练框架Megatron源码剖析  
   技术栈：Python  

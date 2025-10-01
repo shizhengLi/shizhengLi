@@ -135,7 +135,11 @@
   项目简介：LangChain Reimplementation  
   技术栈：Python  
   ⭐ Star: 0 | 📅 最后更新：2025-10-01
-
+  
+- **[langchain_cpp](https://github.com/shizhengLi/langchain_cpp)**  
+  项目简介：A production-grade, high-performance C++ implementation of LangChain framework  
+  技术栈：Cpp  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-01 
 
   
 

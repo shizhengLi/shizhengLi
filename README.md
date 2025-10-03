@@ -17,7 +17,12 @@
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
   技术栈：Python  
-  ⭐ Star: 5 | 📅 最后更新：2025-09-29 
+  ⭐ Star: 5 | 📅 最后更新：2025-09-29
+
+- **[million-agents](https://github.com/shizhengLi/million-agents)**  
+  项目简介：百万智能体社交应用 - Million Agents Social App  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-03  
 
 - **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
   项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 

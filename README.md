@@ -19,6 +19,11 @@
   技术栈：Python  
   ⭐ Star: 5 | 📅 最后更新：2025-09-29
 
+- **[linux-kernel-learning](https://github.com/shizhengLi/linux-kernel-learning)**  
+  项目简介：Linux Kernel 源代码深度研究项目  
+  技术栈：C  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-30  
+
 - **[million-agents](https://github.com/shizhengLi/million-agents)**  
   项目简介：百万智能体社交应用 - Million Agents Social App  
   技术栈：Python  
@@ -135,6 +140,18 @@
   技术栈：Go  
   ⭐ Star: 0 | 📅 最后更新：2025-09-28
 
+
+
+- **[docker-impl](https://github.com/shizhengLi/docker-impl)**  
+  项目简介：MyDocker - 简化版Docker实现  
+  技术栈：Go  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-25 
+
+- **[faiss-learning](https://github.com/shizhengLi/faiss-learning)**  
+  项目简介：完整的 Faiss 技术博客系列  
+  技术栈：C++  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-01 
+
   
 - **[langchain-impl](https://github.com/shizhengLi/langchain-impl)**  
   项目简介：LangChain Reimplementation  
@@ -144,7 +161,12 @@
 - **[langchain_cpp](https://github.com/shizhengLi/langchain_cpp)**  
   项目简介：A production-grade, high-performance C++ implementation of LangChain framework  
   技术栈：Cpp  
-  ⭐ Star: 0 | 📅 最后更新：2025-10-01 
+  ⭐ Star: 0 | 📅 最后更新：2025-10-01
+
+- **[langchain-learning](https://github.com/shizhengLi/langchain-learning)**  
+  项目简介：从基础到进阶的完整 RAG 系统学习指南  
+  技术栈：Jupyter Notebook  
+  ⭐ Star: 1 | 📅 最后更新：2025-10-07  
 
   
 

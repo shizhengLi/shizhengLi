@@ -33,11 +33,11 @@
   项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
   技术栈：TypeScript  
   ⭐ Star: 7 | 📅 最后更新：2025-08-13
-
+  
 - **[zen-quotes](https://github.com/shizhengLi/zen-quotes)**  
-  项目简介: A serene VSCode extension that displays mindful quotes with elegant formatting  
+  项目简介: A serene VSCode extension that displays mindful quotes with elegant formatting (禅修图片文字VSCode插件)  
   技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-10-01  
+  ⭐ Star: 1 | 📅 最后更新：2025-10-05  
 
 - **[megatron-learning](https://github.com/shizhengLi/megatron-learning)**  
   项目简介：分布式训练框架Megatron源码剖析  
@@ -84,7 +84,7 @@
 - **[kilocode-learning](https://github.com/shizhengLi/kilocode-learning)**  
   项目简介：深入解析开源Kilocode核心技术实现与架构设计  
   技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-30
+  ⭐ Star: 1 | 📅 最后更新：2025-09-30
 
 - **[claude-code-learning](https://github.com/shizhengLi/claude-code-learning)**  
   项目简介：暂无描述  
@@ -94,7 +94,7 @@
 - **[code-context-learning](https://github.com/shizhengLi/code-context-learning)**  
   项目简介：Code Context 是一个基于向量数据库的语义代码搜索工具，源代码学习  
   技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2025-08-13 
+  ⭐ Star: 1 | 📅 最后更新：2025-08-13 
 
 
 - **[pytorch-cpp](https://github.com/shizhengLi/pytorch-cpp)**  
@@ -118,8 +118,6 @@
   ⭐ Star: 0 | 📅 最后更新：2025-08-15  
 
 
- 
-
 - **[python-master](https://github.com/shizhengLi/python-master)**  
   项目简介：一个深入探索Python核心原理与高级技术的专业学习系列  
   技术栈：未知  
@@ -135,10 +133,6 @@
   技术栈：JavaScript  
   ⭐ Star: 0 | 📅 最后更新：2025-09-29
 
-- **[go-master](https://github.com/shizhengLi/go-master)**  
-  项目简介：Go语言大师课程：10篇深度技术博客  
-  技术栈：Go  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-28
 
 
 
@@ -166,7 +160,13 @@
 - **[langchain-learning](https://github.com/shizhengLi/langchain-learning)**  
   项目简介：从基础到进阶的完整 RAG 系统学习指南  
   技术栈：Jupyter Notebook  
-  ⭐ Star: 1 | 📅 最后更新：2025-10-07  
+  ⭐ Star: 1 | 📅 最后更新：2025-10-07
+
+
+- **[compare-three](https://github.com/shizhengLi/compare-three)**  
+  项目简介：三种现代代码搜索技术的全方位对比分析  
+  技术栈：未知  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-30  
 
   
 

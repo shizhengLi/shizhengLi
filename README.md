@@ -166,7 +166,13 @@
 - **[compare-three](https://github.com/shizhengLi/compare-three)**  
   项目简介：三种现代代码搜索技术的全方位对比分析  
   技术栈：未知  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-30  
+  ⭐ Star: 0 | 📅 最后更新：2025-09-30
+
+
+- **[nanochat-learning](https://github.com/shizhengLi/nanochat-learning)**  
+  项目简介：NanoChat完整技术解析  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-23  
 
   
 

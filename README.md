@@ -12,12 +12,12 @@
 - **[Learning-English-With-TED](https://github.com/shizhengLi/Learning-English-With-TED)**  
   项目简介：Learning notes (In Chinese) of TED speeches, English magazines (e.g., The Economist) and YouTube videos  
   技术栈：未知  
-  ⭐ Star: 33 | 📅 最后更新：2025-05-16
+  ⭐ Star: 36 | 📅 最后更新：2025-05-16
 
 - **[cuda-triton-learning](https://github.com/shizhengLi/cuda-triton-learning)**  
   项目简介：CUDA & Triton Learning Project: Flash Attention 实现探索  
   技术栈：Python  
-  ⭐ Star: 5 | 📅 最后更新：2025-09-29
+  ⭐ Star: 10 | 📅 最后更新：2025-09-29
 
 - **[linux-kernel-learning](https://github.com/shizhengLi/linux-kernel-learning)**  
   项目简介：Linux Kernel 源代码深度研究项目  

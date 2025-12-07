@@ -172,7 +172,13 @@
 - **[nanochat-learning](https://github.com/shizhengLi/nanochat-learning)**  
   项目简介：NanoChat完整技术解析  
   技术栈：Python  
-  ⭐ Star: 0 | 📅 最后更新：2025-10-23  
+  ⭐ Star: 0 | 📅 最后更新：2025-10-23
+
+
+- **[ray-learning](https://github.com/shizhengLi/ray-learning)**  
+  项目简介：分布式计算框架Ray学习资料  
+  技术栈：Python  
+  ⭐ Star: 0 | 📅 最后更新：2025-12-07 
 
   
 

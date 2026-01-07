@@ -129,12 +129,6 @@
   技术栈：C++  
   ⭐ Star: 0 | 📅 最后更新：2025-08-15  
 
-
-- **[python-master](https://github.com/shizhengLi/python-master)**  
-  项目简介：一个深入探索Python核心原理与高级技术的专业学习系列  
-  技术栈：未知  
-  ⭐ Star: 0 | 📅 最后更新：2025-09-28
-
 - **[slime-learning](https://github.com/shizhengLi/slime-learning)**  
   项目简介：智谱GLM 4.5背后的Slime框架完全指南  
   技术栈：Python  

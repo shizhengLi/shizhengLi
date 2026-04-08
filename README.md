@@ -189,7 +189,7 @@
 
 ## 联系我
 - GitHub: [shizhengLi](https://github.com/shizhengLi)
-- 联系方式：740925018[dot]qq[dot]com, shizhengcs[dot]gmail[dot]com
+- 联系方式：740925018@qq[dot]com, shizhengcs@gmail[dot]com
 - 欢迎 Star ⭐ 我的项目或提出建议！
   
 

@@ -31,11 +31,6 @@
   技术栈：Python  
   ⭐ Star: 10 | 📅 最后更新：2025-09-29
 
-- **[analyze_openclaw](https://github.com/shizhengLi/analyze_openclaw)**  
-  项目简介：OpenClaw 源码分析  
-  技术栈：TypeScript  
-  ⭐ Star: 0 | 📅 最后更新：2026-03-22  
-
 - **[linux-kernel-learning](https://github.com/shizhengLi/linux-kernel-learning)**  
   项目简介：Linux Kernel 源代码深度研究项目  
   技术栈：C  

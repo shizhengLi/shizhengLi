@@ -35,11 +35,6 @@
   项目简介：Linux Kernel 源代码深度研究项目  
   技术栈：C  
   ⭐ Star: 0 | 📅 最后更新：2025-09-30  
-
-- **[mcp-learning](https://github.com/shizhengLi/mcp-learning)**  
-  项目简介：MCP协议学习，Context7 MCP源码分析， 并且实现一个几万行代码的MCP项目（DevInsight AI Platform，开发助手）。 
-  技术栈：TypeScript  
-  ⭐ Star: 7 | 📅 最后更新：2025-08-13
   
 - **[zen-quotes](https://github.com/shizhengLi/zen-quotes)**  
   项目简介: A serene VSCode extension that displays mindful quotes with elegant formatting (禅修图片文字VSCode插件)  
@@ -133,8 +128,6 @@
   项目简介：JS从基础语法到高级特性的完整学习笔记，以及一个功能完整的 Wordle 游戏项目实践。  
   技术栈：JavaScript  
   ⭐ Star: 0 | 📅 最后更新：2025-09-29
-
-
 
 
 - **[docker-impl](https://github.com/shizhengLi/docker-impl)**  
